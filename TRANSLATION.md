@@ -1,11 +1,11 @@
-colors.txt - 100%\
-info.txt - 100%\
-links.txt - 100%\
-motd.txt - 100%\
-rules.txt - 100%\
-main.conf - 100%\
-command-help-messages.conf - 100%\
-messages.conf - 100%
+colors.txt - 100% (TSEngineer)\
+info.txt - 100% (TSEngineer)\
+links.txt - 100% (TSEngineer)\
+motd.txt - 100% (TSEngineer)\
+rules.txt - 100% (TSEngineer)\
+main.conf - 100% (TSEngineer)\
+command-help-messages.conf - 100% (TSEngineer, Mr_Krab)\
+messages.conf - 100% (TSEngineer, Mr_Krab)
 
 Credits:
 - TSEngineer
