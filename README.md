@@ -2,13 +2,13 @@
 Russian language for Sponge plugin "Nucleus"
 
 # How to use it
-Change use-custom-message-file=false to use-custom-message-file=true in main.conf.
-Download ZIP and extract it.
+Change use-custom-message-file=false to use-custom-message-file=true in main.conf.\
+Download ZIP and extract it.\
 Move these files, look into FROMTO.md
 
 # Как это использовать
-Измените use-custom-message-file=false на use-custom-message-file=true в main.conf.
-Скачайте ZIP и извлеките файлы.
+Измените use-custom-message-file=false на use-custom-message-file=true в main.conf.\
+Скачайте ZIP и извлеките файлы.\
 Переместите эти факлы, смотрите в FROMTO.md
 
 
